@@ -83,7 +83,7 @@ DATABASES = {
         'NAME': 'tajmahal',
         'PASSWORD':'SaiDurga@553',
         'HOST':'ip-172-31-6-61.ap-south-1.compute.internal',
-        'USER':'postgres'
+        'USER':'postgres',
         'PORT':'5432',
     }
 }
