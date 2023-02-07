@@ -79,7 +79,7 @@ WSGI_APPLICATION = 'tajmahal.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'postgresql',
+        'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'tajmahal',
         'PASSWORD':'SaiDurga@553',
         'HOST':'localhost',
